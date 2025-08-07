@@ -1,0 +1,1 @@
+"..\UE5.4\Engine\Binaries\DotNet\UnrealBuildTool\UnrealBuildTool.exe" -projectfiles -project="%~dpSpeichern.uproject" -game -rocket -progress
